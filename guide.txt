@@ -1,3 +1,5 @@
+Please follow the following to install superset.
+
 python --version
 python -m pip install --upgrade pip
 python -m pip install virtualenv
